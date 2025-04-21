@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá eu sou o Leonardo Rosseto
 
-<!--
-**Leonardo-Rosseto12/Leonardo-Rosseto12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudando Game Desing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Rosseto12&show_icons=true&theme=radical"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Rosseto12&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Rosseto12&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <p align="right">
+        <img src="https://github.com/user-attachments/assets/e743e6fa-0263-47fd-9c04-3baacc9ed5da" alt="Image" />
+      </p>
+    </td>
+  </tr>
