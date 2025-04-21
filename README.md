@@ -1,6 +1,6 @@
 Olá eu sou o Leonardo Rosseto
 
--Estudando Game Desing
+_Estudando Game Desing
 
 <table>
   <tr>
