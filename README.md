@@ -8,7 +8,7 @@ _Estudando Game Desing
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Rosseto12&show_icons=true&theme=radical"
-          media="(prefers-color-scheme: aura-dark)"
+          media="(prefers-color-scheme: nord)"
         />
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Rosseto12&show_icons=true"
