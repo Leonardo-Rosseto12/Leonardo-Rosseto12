@@ -7,7 +7,7 @@ _Estudando Game Desing
     <td>
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Rosseto12&show_icons=true&theme=nord"
+          srcset="https://github-readme-stats.vercel.app/api?username=Leonardo-Rosseto12&show_icons=true&theme=tokyonight"
           media="(prefers-color-scheme: dark)"
         />
         <source
