@@ -23,3 +23,24 @@ _Estudando Game Desing
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2">
+      <p align="left">
+        Em meu cotidiano sou Game Dev e gosto de pesquisar sobre, procuro sempre melhorar minhas habilidades para um dia ser um renomado desenvolvedor,
+        crescer na área e permanecer nela é meu sonho de vida, criar cada vez mais jogos para alegrar a vida de alguem esse é meu desejo. Estou sempre
+        disposto a conhecer novas pessoas do mesmo ramo ou ainda aprender mais com personalidades de diferentes áreas.
+      </p>
+    </td>
+  </tr>
+
+  </table>
+
+  ##
+ 
+  <div> 
+    <a href = "mailto:leonardorgv12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/samuelbp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
+
