@@ -27,9 +27,7 @@ _Estudando Game Desing
   <tr>
     <td colspan="2">
       <p align="left">
-        Em meu cotidiano sou Game Dev e gosto de pesquisar sobre, procuro sempre melhorar minhas habilidades para um dia ser um renomado desenvolvedor,
-        crescer na área e permanecer nela é meu sonho de vida, criar cada vez mais jogos para alegrar a vida de alguem esse é meu desejo. Estou sempre
-        disposto a conhecer novas pessoas do mesmo ramo ou ainda aprender mais com personalidades de diferentes áreas.
+        Em meu cotidiano sou Game Dev e gosto de pesquisar sobre, procuro sempre melhorar minhas habilidades para um dia ser um renomado desenvolvedor, crescer na área e permanecer nela. É meu sonho de vida, criar cada vez mais jogos para alegrar a vida de alguém, esse é meu desejo. Estou sempre disposto a conhecer novas pessoas do mesmo ramo ou ainda aprender mais com personalidades de diferentes áreas.
       </p>
     </td>
   </tr>
