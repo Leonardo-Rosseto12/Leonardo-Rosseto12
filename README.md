@@ -19,7 +19,7 @@ _Estudando Game Desing
     </td>
     <td>
       <p align="right">
-        <img src="https://github.com/user-attachments/assets/e743e6fa-0263-47fd-9c04-3baacc9ed5da" alt="Image" />
+        <img src="https://github.com/user-attachments/assets/0823a9af-be2b-47b8-9b56-7c826427ff60" alt="Image" />
       </p>
     </td>
   </tr>
