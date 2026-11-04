@@ -33,9 +33,9 @@ Tenho interesse em aprender novas tecnologias e aplicar meus conhecimentos em pr
 
 ### Pong Multiplayer LAN
 
-Desenvolvimento de um jogo de Pong com suporte a partidas multiplayer em rede local (LAN), utilizando GameMaker e GML.
+Desenvolvimento de um jogo de Pong com suporte a partidas multiplayer em rede local (LAN), utilizando GameMaker(GML).
 
-O projeto explora conceitos de comunicação TCP, arquitetura cliente-servidor, sincronização de informações entre jogadores e lógica de jogos.
+O projeto explora conceitos de Game Design, comunicação TCP, arquitetura cliente-servidor e sincronização de informações entre jogadores.
 
 <br>
 
