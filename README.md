@@ -19,7 +19,7 @@ Tenho interesse em aprender novas tecnologias e aplicar meus conhecimentos em pr
 ## <img src="https://img.shields.io/badge/Tecnologias-4C1D95?style=for-the-badge&labelColor=1A0633">
 <div align="center">
 
-| Java | GML | C | Banco de dados | Git |
+| Java | GML | C | SQL | Git |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://img.icons8.com/ios-filled/100/9D4EDD/java-coffee-cup-logo.png" width="45"> | <img src="https://cdn.simpleicons.org/gamemaker/9D4EDD" width="45"> | <img src="https://cdn.simpleicons.org/c/9D4EDD" width="45"> | <img src="https://img.icons8.com/ios-filled/100/9D4EDD/database.png" width="45"> | <img src="https://cdn.simpleicons.org/git/9D4EDD" width="45"> |
 
