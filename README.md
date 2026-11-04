@@ -27,6 +27,26 @@ Tenho interesse em aprender novas tecnologias e aplicar meus conhecimentos em pr
 
 ---
 
+## <img src="https://img.shields.io/badge/Projetos_em_destaque-4C1D95?style=for-the-badge&labelColor=1A0633">
+
+<div align="center">
+
+### Pong Multiplayer LAN
+
+Desenvolvimento de um jogo de Pong com suporte a partidas multiplayer em rede local (LAN), utilizando GameMaker e GML.
+
+O projeto explora conceitos de comunicação TCP, arquitetura cliente-servidor, sincronização de informações entre jogadores e lógica de jogos.
+
+<br>
+
+<a href="https://github.com/Leonardo-Rosseto12/Pong">
+<img src="https://img.shields.io/badge/Visualizar_Projeto-6D28D9?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
 ## <img src="https://img.shields.io/badge/Áreas_de_interesse-4C1D95?style=for-the-badge&labelColor=1A0633">
 
 <div align="center">
